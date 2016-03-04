@@ -10,7 +10,12 @@ var model = {
         "San Francisco Museum of Modern Art",
         "California Academy of Sciences",
         "Asian Art Museum",
-        "Legion of Honor"
+        "Legion of Honor",
+		"Exploratorium",
+		"Cable Car Museum",
+		"Randall Museum",
+		"Mexican Museum",
+		"Railway Museum"
     ]
 };
 /**
