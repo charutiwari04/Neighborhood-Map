@@ -51,3 +51,4 @@ Following errors can be expected in case something goes wrong:-
 
 ##Known restrictions
 *  This app is limited to only five locations search. In future, more locations may be added.
+*  This app might sometimes produce unexpected errors as "OVER_QUERY_LIMIT" and the results on the screen might not be as expected. This happens because there is a limit of google map requests per second and if google map service is overused this will be produced. I have handled the errors in the code and proper error code will be displayed.
